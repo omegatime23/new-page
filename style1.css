@@ -1,0 +1,24 @@
+header{
+    background-image: url(info/about.png);   
+    height:100vh;
+    background-size:cover;
+    background-position:center;
+   }
+   .title{
+       position:absolute;
+       top:12%;
+       left:58%;
+       transform: translate(-50%-50%);
+   }
+   .title h1{
+       color:white;
+       font-size:70px;
+       
+   }
+   .oo{
+       color:white;
+       font-size:30px;
+       top:50%;
+       left:60%;
+   }
+   

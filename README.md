@@ -1,4 +1,4 @@
-# Konark.github.io
+# omegatime23.github.io
 #About the website
 
 This is my final project for Harvard CS50x course. It's a website named “My Webpage”
